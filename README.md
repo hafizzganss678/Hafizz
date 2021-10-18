@@ -79,7 +79,7 @@ ___
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizzganss678&count_private=true&show_icons=true&theme=tokyonight)
     
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hafizzganss678&repo=my-profile.github.io&theme=tokyonight)](https://github.com/hafizzganss678)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hafizzganss678&repo=my-profile.github.io&theme=tokyonight)](https://github.com/hafizzganss678/Awowkwowk.github.io)
 
 # Special Thanks To
 

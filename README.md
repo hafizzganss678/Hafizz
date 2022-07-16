@@ -84,12 +84,5 @@ ___
   
 
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizzganss678&count_private=true&show_icons=true&theme=tokyonight)
-    
-# Special Thanks To
-
-* [`Saya Sendiri`](https://github.com/hafizzganss678)
-
 
 <audio autoplay="true" src="https://f.top4top.io/m_2092qvkoa0.mp3"></audio>

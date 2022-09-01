@@ -34,7 +34,7 @@ Intro = {
 
 "Age": "16 Years Old",
 
-"Birthday": " 22 - November"
+"Birthday": " 22 - November - 2006 "
 
 }
 

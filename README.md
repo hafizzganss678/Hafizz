@@ -59,15 +59,15 @@ ___
 
 ### [`👇Social media👇`](https://wa.me/6285172200670?text=Haloo+bang)
 
- [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fizzxyzz)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizzzstyleee)
 
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285172200670?text=Haloo+bang)
 
- [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FizzXyzz)
+ [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://tiktok.com/@fizzzxyzzz)
 
 ___
 ___
-### [`👇WhatsApp V2👇`](https://wa.me/6289636120564?text=HalooFizz)
+### [`👇WhatsApp V2👇`](https://wa.me/6285172200670?text=HalooFizz)
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285172200670?text=Haloo+bang)
@@ -75,26 +75,7 @@ ___
 
 ___
 ___
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-</p>
 
-  <a href="https://github.com/hafizzganss678"><img src="https://github-readme-stats.vercel.app/api?username=hafizzganss678&theme=tokyonight&show_icons=true" /></a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/hafizzganss678"><img src="https://github-readme-streak-stats.herokuapp.com?user=hafizzganss678&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-
-</p>
-
-  
 
 
 
